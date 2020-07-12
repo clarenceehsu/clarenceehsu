@@ -1,4 +1,11 @@
-### Hi there 👋
+### Nice to meet you! 👋👋👋
+
+I'm a student of EIST, and translation as my second major.
+
+What I'm doing:
+- 📷 Photographer
+- 💻 Developer
+- I'm currently learning the full stack of software and hardware
 
 <!--
 **clarenceehsu/clarenceehsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
