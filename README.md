@@ -1,23 +1,22 @@
-### Nice to meet you! 👋👋👋
+### Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm a student of EIST, and translation as my second major.
+This is zee, also known as 赵铁柱. 
 
-What I'm doing:
-- 📷 Photographer
-- 💻 Developer
-- I'm currently learning the full stack of software and hardware
+[![Github](https://img.shields.io/badge/-Github-3f4441?logo=github&style=flat-square&link=https://github.com/clarenceehsu)](https://github.com/clarenceehsu)
+[![Leetcode](https://img.shields.io/badge/-leetcode-3f4441?logo=leetcode&style=flat-square&link=https://leetcode-cn.com/u/zeesain/)](https://leetcode-cn.com/u/zeesain/)
 
-<!--
-**clarenceehsu/clarenceehsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=clarenceehsu&theme=dark">](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+- 🚀 Currently working on: ![Python](https://img.shields.io/badge/-Python-8fcfd1?logo=Python&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c&style=flat-square) ![Java](https://img.shields.io/badge/-Java-3f4441?logo=java&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+- 🌱 Learning: ![GO](https://img.shields.io/badge/-GO-8fcfd1?logo=GO&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square) ![Node.JS](https://img.shields.io/badge/-Node.JS-black?logo=javascript&style=flat-square)
+- 🌮 Huge fan of **Coke Zero** and **Cucumber-flavored** Lay's potato chips
+- ☕ Lightweight and minimalist
+- 🚄 Tend to automate all repetitive actions (if possible)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some Projects 💻
+
+- **oneline**: It's a very early version WITHOUT documentation and only used and tested in some contests and projects. This project will be perfected in the future with documents and comments complemented.
+- **Hacker Laws**: A series of laws and principles that developers would find useful.
+- **clarenceehsu.github.io**: My blog for recording.
+
+<img src="https://activity-graph.herokuapp.com/graph?username=clarenceehsu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
