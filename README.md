@@ -16,7 +16,7 @@ This is Zee, also known as 赵铁柱.
 
 ### Some Personal Projects 💻
 
-- **oneline**: It's a very early version WITHOUT documentation and only used and tested in some contests and projects. This project will be perfected in the future with documents and comments complemented.
+- **oneline**: It's a very early version without documentation and only used and tested in some contests and projects. This project will be perfected in the future with documents and comments complemented.
 - **Hacker Laws**: A series of laws and principles that developers would find useful.
 
 <img src="https://activity-graph.herokuapp.com/graph?username=clarenceehsu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
