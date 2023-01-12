@@ -7,16 +7,13 @@ This is Zee, also known as 赵铁柱.
 
 <!-- [<img align="right" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=clarenceehsu&theme=dark">](https://git.io/streak-stats) -->
 
-- 🚀 Currently working on: ![Python](https://img.shields.io/badge/-Python-8fcfd1?logo=Python&style=flat-square) ![Java](https://img.shields.io/badge/-Java-3f4441?logo=java&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-46a2f1?style=flat-square&logo=TypeScript) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-- 🌱 Learning: ![GO](https://img.shields.io/badge/-GO-8fcfd1?logo=GO&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square) ![Node.JS](https://img.shields.io/badge/-Node.JS-black?logo=javascript&style=flat-square)
+- 🚀 Currently working on: ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![GO](https://img.shields.io/badge/Go-00ADD8?&logo=go&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white&style=flat-square)
+- 🌱 Using: ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white&style=flat-square) 
 - 🌮 Huge fan of **Coke Zero** and **Cucumber-flavored** Lay's potato chips
 - ☕ Lightweight and minimalist
 - 🚄 Tend to automate all repetitive actions (if possible)
-- ⚡ Perfer to update many content at a commit, so the number of overall commits is not a lot.
 
 ### Some Personal Projects 💻
 
 - **oneline**: It's a very early version without documentation and only used and tested in some contests and projects. This project will be perfected in the future with documents and comments complemented.
 - **Hacker Laws**: A series of laws and principles that developers would find useful.
-
-<img src="https://activity-graph.herokuapp.com/graph?username=clarenceehsu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
