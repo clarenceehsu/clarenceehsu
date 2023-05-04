@@ -11,7 +11,7 @@ This is Zee, also known as 赵铁柱.
 - 🌱 Using: ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white&style=flat-square) 
 - 🌮 Huge fan of **Coke Zero** and **Cucumber-flavored** Lay's potato chips
 - ☕ Lightweight and minimalist
-- 🚄 Tend to automate all repetitive actions (if possible)
+- 🚄 Repetitive actions killer with automation (if possible)
 
 ### Some Personal Projects 💻
 
