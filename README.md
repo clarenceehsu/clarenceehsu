@@ -9,7 +9,7 @@ This is Zee, also known as 赵铁柱.
 
 - 🚀 Currently working on: ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![GO](https://img.shields.io/badge/Go-00ADD8?&logo=go&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white&style=flat-square)
 - 🌱 Using: ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white&style=flat-square) 
-- 🌮 Huge fan of **Coke Zero** and **Cucumber-flavored** Lay's potato chips
+- 🌮 Huge fan of **Grilled Chicken Burger** and **Cucumber-flavored** Lay's potato chips
 - ☕ Lightweight and minimalist
 - 🚄 Repetitive actions killer with automation (if possible)
 
